@@ -1,6 +1,6 @@
 # lab3-testing
 
-###Test  1 
+### Test 1 
 
 <img width="740" alt="image" src="https://github.com/IvanG-G/lab3-testing/assets/138608967/854d3882-6b37-4bb5-bb4d-12b37daa1c59">
 
